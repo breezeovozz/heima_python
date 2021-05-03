@@ -23,3 +23,5 @@ print(b)
 
 str(b)
 print(b)
+
+print('测试')
